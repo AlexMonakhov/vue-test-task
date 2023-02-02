@@ -1,5 +1,7 @@
 # vue-test-task
 
+To test responsive(mobile friendly menu and list), please use dev tools device toolbar and select some virtual mobile.
+
 ## Project setup
 ```
 npm install
